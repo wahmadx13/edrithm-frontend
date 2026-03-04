@@ -1,0 +1,6 @@
+{
+  // Suppress unknown at-rule warnings for Tailwind CSS v4 directives
+  // (@custom-variant, @theme, @layer, @apply, etc. are Tailwind-specific)
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore"
+}
